@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://assets.stickpng.com/images/580b585b2edbce24c47b2b55.png” group-title=”10.30.30.30”, GTV
-http://10.30.30.30:8088/106/index.fmp4.m3u8?token=09c7f6a64c2158a37eba75a337bf318c9000213c-2d8dca29d5f6d3ef7a9f7dfd2228d36a-1738589018-1738578218
+http://10.30.30.30:8088/106/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo=”https://assets.stickpng.com/images/580b585b2edbce24c47b2b55.png” group-title=”10.30.30.30”, TSports
-http://10.30.30.30:8088/102/index.fmp4.m3u8?token=99557dcadf9a3381f5df6727efb71ee59b37e513-7f25d9dad0c9c27b4598229c6ff894d3-1738589052-1738578252
+http://10.30.30.30:8088/102/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo=”https://assets.stickpng.com/images/580b585b2edbce24c47b2b55.png” group-title=”10.30.30.30”, Ten-Cricket
-http://10.30.30.30:8088/110/index.fmp4.m3u8?token=c5be94b5929717bbc16e2150e532473a263737f3-77b62954031a624cea68ed6762fc3966-1738589082-1738578282
+http://10.30.30.30:8088/110/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo=”https://assets.stickpng.com/images/580b585b2edbce24c47b2b55.png” group-title=”10.30.30.30”, SonySport
-http://10.30.30.30:8088/119/index.fmp4.m3u8?token=c93c33560521fd2a4901b774a2dd34af04c1997f-57db8d1e70d7c65c0d73b04939fd724c-1738589121-1738578321
+http://10.30.30.30:8088/119/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo=”https://assets.stickpng.com/images/580b585b2edbce24c47b2b55.png”, SonySport
-http://10.30.30.30:8088/120/index.fmp4.m3u8?token=e628571bc9c045db60e719ea73738a34706a3f64-b5e86f54a042f44a0e1d7bc72fbd9f31-1738589160-1738578360
+http://10.30.30.30:8088/120/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo=”https://assets.stickpng.com/images/580b585b2edbce24c47b2b55.png” group-title=”10.30.30.30”, SonySport
 http://10.30.30.30:8088/121/index.fmp4.m3u8?token=7e6914e815ca90724456305c3b815be9f3ea5e68-939c72a94018a8312baac448d62d2203-1738589188-1738578388
