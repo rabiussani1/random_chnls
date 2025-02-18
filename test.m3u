@@ -1,38 +1,4 @@
 #EXTM3U
 #EXTINF:-1 ,Asian tv
-http://176.119.29.52/live.ts?channelId=80&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1,Abp ananda
-http://tv.cloudcdn.me/live.ts?channelId=40480&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1,Amar Bangla
-http://176.119.29.52/live.ts?channelId=95984&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1,Aakash 8
-http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1,Bangla tv
-http://tv.cloudcdn.me/live.ts?channelId=44159&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1,Bangla vision
-http://tv.cloudcdn.me/live.ts?channelId=84&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1,Channel 9
-http://176.119.29.52/live.ts?channelId=88&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1,Boisakhy tv
-http://176.119.29.52/live.ts?channelId=86&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1,Btv
-http://176.119.29.52/live.ts?channelId=49341&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1 ,Astro Cricket.
-http://195.26.87.217/live.ts?channelId=33317&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1 ,ASTRO SUPERSPORT 1 FHD
-http://195.26.87.217/live.ts?channelId=125429&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1 ,ASTRO SUPERSPORT 2 FHD
-http://195.26.87.217/live.ts?channelId=125430&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1 ,ASTRO SUPERSPORT 3 FHD
-http://195.26.87.217/live.ts?channelId=125431&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1 ,ASTRO SUPERSPORT 4 FHD
-http://195.26.87.217/live.ts?channelId=125432&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1 ,BEIN SPORTS 1 ENGLISH FHD
-http://195.26.87.217/live.ts?channelId=102481&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1 ,BEIN Sports 2 English FHD
-http://195.26.87.217/live.ts?channelId=125427&uid=3453&deviceMac=00:1A:79:11:10:28
-#EXTINF:-1 ,BEIN Sports 3 English FHD
-http://195.26.87.217/live.ts?channelId=125428&uid=3453&deviceMac=00:1A:79:11:10:28
 
-#EXTINF:-1 ,Star Sports 1 FHD
-http://195.26.87.217/live.ts?channelId=293&uid=3453&deviceMac=00:1A:79:11:10:28
+
